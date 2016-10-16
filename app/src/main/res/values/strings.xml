@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Work2</string>
+    <string name="hg">身高体重测量器</string>
+    <string name="height">你的身高:</string>
+    <string name="weight">你的体重:</string>
+    <string name="cal">计算</string>
+</resources>
